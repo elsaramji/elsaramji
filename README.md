@@ -1,4 +1,4 @@
-<h1 align="center">Mahmoud Ahmed Al-Saramji</h1>
+<h1 align="center">Mahmoud Ahmed Al-Saramiji</h1>
 
 <p align="center">
   <strong>Mobile Developer (Flutter) | Clean Architecture | Scalable App Design</strong><br/>
