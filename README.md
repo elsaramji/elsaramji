@@ -1,5 +1,5 @@
 # Mahmoud Ahmed Al-Saramji
-**Junior Flutter Developer | Software Engineer | Multi Platform Developer**
+**Software Engineer | Full-Stack | Flutter Developer**
 ### contact me 
 * +201067478640 | [mahmoudelsarmegy@gmail.com](mailto:mahmoudelsarmegy@gmail.com) 
 * [LinkedIn](https://linkedin.com/in/mahmoud-el-seramji) 
